@@ -1,3 +1,8 @@
+#### Name: [Juhi](https://github.com/j-12)
+- Place: Mumbai, India
+- Bio: Computer Engineering Student
+- GitHub: [Juhi](https://github.com/j-12)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
